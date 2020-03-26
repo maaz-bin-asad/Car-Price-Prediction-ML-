@@ -1,2 +1,2 @@
 # Car-Price-Prediction-ML-
-The project is for MishMash Hackathon 2020
+Make sure to install SckitLearn, numpy and pandas before running the model
