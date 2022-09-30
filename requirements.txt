@@ -4,7 +4,7 @@ chardet==3.0.4
 distlib==0.3.0
 filelock==3.0.12
 idna==2.9
-joblib==0.14.1
+joblib==1.2.0
 numpy==1.18.1
 opencv-python==4.2.0.32
 pandas==1.0.3
